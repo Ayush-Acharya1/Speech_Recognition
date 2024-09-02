@@ -1,0 +1,1 @@
+This is a Deep Learning Project on Speech recognition. It listens to speech through microphone and converts it to text. It needs a faster system for it to work smoothly. It uses pysttx3 , pyaudio and speech_recognition pre-trained model.
